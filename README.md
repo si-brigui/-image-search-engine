@@ -33,6 +33,10 @@ This project was designed to:
 1. Clone the repository:
   https://github.com/si-brigui/-image-search-engine.git
 
+# screenshots :
+![Screenshot_21-10-2025_22239_127 0 0 1](https://github.com/user-attachments/assets/41b634e6-35e7-4c35-9b6c-ef878e67ffa3)
+![Screenshot_21-10-2025_222341_127 0 0 1](https://github.com/user-attachments/assets/5077b25a-b796-4f50-bdd6-e6c3eda81a99)
+
 
 🤝 Contributing:
 Contributions are welcome!
